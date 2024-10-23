@@ -30,6 +30,9 @@ The Multimodal Bot Framework offers the following key features:
 
 ## Quickstart
 
+This is the section to place the code snippets and explanation of each implementation step.
+
+Also, we will show the secondary path of how a user can switch the Azure components, including the model. 
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
   <a href="#readme-top" style="text-decoration: none; color: blue; font-weight: bold;">
